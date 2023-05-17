@@ -29,8 +29,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Neha.MA
-RegisterNumber:  212220040100
+Developed by: V JAIVIGNESH
+RegisterNumber:  212220040055
 */
 
 import numpy as np
@@ -136,15 +136,36 @@ np.mean(predict(res.x, X) == y)
 ```
 
 ## Output:
-<img width="668" alt="Screenshot 2023-05-08 at 3 47 41 PM" src="https://user-images.githubusercontent.com/71516398/236802362-b7b7cc0e-7d01-4a79-97f1-f6c32868a1ce.png">
-<img width="668" alt="Screenshot 2023-05-08 at 3 47 56 PM" src="https://user-images.githubusercontent.com/71516398/236802366-8bfe862a-739e-47f0-bd78-66cdca88f670.png">
+
+1. Array Value of x
+<img width="431" alt="Screenshot 2023-05-16 at 10 39 12 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/57e50604-5cae-49ba-b7b5-a138cd7588d2">
+
+2. Array Value of y
+<img width="288" alt="Screenshot 2023-05-16 at 10 39 28 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/16164a5f-30c5-43c3-a36a-6ca915375960">
+
+3. Exam 1 - score graph
 <img width="653" alt="Screenshot 2023-05-08 at 3 48 08 PM" src="https://user-images.githubusercontent.com/71516398/236802371-9226619b-6d9e-4050-8823-9fc260645dbd.png">
+
+4. Sigmoid function graph
 <img width="455" alt="Screenshot 2023-05-08 at 3 49 49 PM" src="https://user-images.githubusercontent.com/71516398/236802380-8caee2d2-e62e-4b1c-a2a0-aaae45f58bba.png">
+
+5. X_train_grad value
 <img width="455" alt="Screenshot 2023-05-08 at 3 49 54 PM" src="https://user-images.githubusercontent.com/71516398/236802385-f7f05c6e-ffda-4f90-b102-8a9851cde847.png">
+
+6.Y_train_grad value
+7. Print res.x
+
 <img width="455" alt="Screenshot 2023-05-08 at 3 50 01 PM" src="https://user-images.githubusercontent.com/71516398/236802388-03722d86-060e-4bdb-83bb-d08dfafc1433.png">
-<img width="642" alt="Screenshot 2023-05-08 at 3 50 19 PM" src="https://user-images.githubusercontent.com/71516398/236802391-d4dfdb4c-eb11-4fe3-9f7b-d55f7426a4f1.png">
-<img width="642" alt="Screenshot 2023-05-08 at 3 50 27 PM" src="https://user-images.githubusercontent.com/71516398/236802402-4e8f36e0-c76d-4433-8988-a47335e54b18.png">
-<img width="642" alt="Screenshot 2023-05-08 at 3 50 32 PM" src="https://user-images.githubusercontent.com/71516398/236802406-077b01f4-cf57-4b5b-b165-1239ea2620d2.png">
+
+8. Decision boundary - graph for exam score
+
+<img width="592" alt="Screenshot 2023-05-16 at 10 39 54 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/8bee94bd-bd8e-4d03-9a13-56743444a8a9">
+
+9. Proability value 
+<img width="222" alt="Screenshot 2023-05-16 at 10 40 02 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/1dc378a6-270d-4648-8297-2bec4f4f6911">
+
+10. Prediction value of mean
+<img width="222" alt="Screenshot 2023-05-16 at 10 40 08 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/d370b2bc-57bc-48da-87b3-b15b6a94d083">
 
 
 ## Result:
